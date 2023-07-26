@@ -1,0 +1,21 @@
+{
+  "name": "custom-properties-panel-labels-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@bpmn-io/properties-panel": "0.24.0",
+    "bpmn-js": "10.3.0",
+    "bpmn-js-properties-panel": "1.11.1",
+    "camunda-bpmn-moddle": "7.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
